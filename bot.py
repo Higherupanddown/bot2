@@ -1,7 +1,8 @@
 
 import requests 
 from requests import get, post
-''' post(
+''' 
+post(
         "https://pixel.w84.vkforms.ru/HappySanta/slaves/1.0.0/buySlave",
         headers={
             "Content-Type": "application/json",
